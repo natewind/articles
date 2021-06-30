@@ -35,7 +35,7 @@ Anyway, here goes nothing:
 17. Whether it’s via the `State` monad, linear types or something else, convenient **hash maps** should definitely be a thing. Losing such a fundamental data structure is not an acceptable trade‑off.
 18. There should be no traditional, inheritance-based OOP, only algebraic data types, typeclasses/traits and pattern matching. And possibly Rust-style [trait objects](https://doc.rust-lang.org/book/ch17-02-trait-objects.html) for dynamic dispatch: vtables are faster than pattern-matching, and I think sometimes it is the right solution.
 19. Haskell/Idris syntax is mostly awesome, use it.
-20. **First-order functions** are a must, and so is **currying.** Pointfree programming is beautiful and consice when not overdone, and having lambdas everywhere is ugly because explicit arguments in them mix abstraction levels.
+20. **First-class functions** are a must, and so is **currying.** Pointfree programming is beautiful and consice when not overdone, and having lambdas everywhere is ugly because explicit arguments in them mix abstraction levels.
 21. Copy Rust’s editions, module system and Cargo.
 22. **The standard library** should be well-designed and built up steadily but should eventually include even things like audio and graphics (and way before that — cryptography). If it’s not an unsolved mathematical problem, there’s no reason it can’t have a standard solution. The same common problems getting solved by different people is a waste of man‑hours that can be spent developing something new.
 
