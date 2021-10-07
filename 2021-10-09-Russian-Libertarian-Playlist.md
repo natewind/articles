@@ -27,7 +27,7 @@
 
 * [Либертарианство за один урок](https://www.youtube.com/watch?v=67nM21Z0SZ8) (54:43) / [Вопросы и ответы](https://www.youtube.com/watch?v=S1-uOc7Sar8) (1:32:16)
 * [Почему нельзя доверять государству](https://www.youtube.com/watch?v=Ao2Dqqn3ImE) (2:13:05)
-* [Номенклатурный переворот 90-х](https://www.youtube.com/watch?v=1rF9xh8cpFI) (2:04:06)
+* [Номенклатурный переворот 90‑х](https://www.youtube.com/watch?v=1rF9xh8cpFI) (2:04:06)
 * [Частное правосудие и пенитенциарная система](https://www.youtube.com/watch?v=W_Ds0kImNPk) (55:56) / [Вопросы и ответы](https://www.youtube.com/watch?v=FI4oDsz234o) (1:33:37)
 * [Почему либертарианство выгодно бедным](https://www.youtube.com/watch?v=QNV5CRXR3xY) (1:42:01)
 * [Как государственный стандарт образования лишает шансов ваших детей](https://www.youtube.com/watch?v=MIjsexweLqQ) (1:43:30)
