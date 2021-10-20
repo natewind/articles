@@ -1,6 +1,6 @@
 # Либертарианский плейлист
 
-Подборка видео для тех, кто хочет разобраться в матчасти.
+Подборка видео для тех, кто хочет разобраться в матчасти и не только.
 
 ## SVTV
 
@@ -48,6 +48,7 @@
 * [Легалайз выгоден наркофобам](https://www.youtube.com/watch?v=jbGJv40wAkE) (11:11)
 * [Грета Тунберг и экология](https://www.youtube.com/watch?v=9HXXbbM9AbM) (4:44)
 * [Монополия на мысли](https://www.youtube.com/watch?v=cBBxaOEwfjM) (16:48)
+* [Объективная журналистика](https://www.youtube.com/watch?v=f7gYGK9c8Xg) (11:53)
 
 ## Libertarian Band
 
